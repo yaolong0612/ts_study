@@ -16,5 +16,10 @@
     "url": "https://github.com/yaolong0612/ts_study/issues"
   },
   "homepage": "https://github.com/yaolong0612/ts_study#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
 }
